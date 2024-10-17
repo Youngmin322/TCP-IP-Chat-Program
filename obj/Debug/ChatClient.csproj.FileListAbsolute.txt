@@ -1,0 +1,10 @@
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\choyo\Desktop\ChatClient_Source3\bin\Debug\ChatClient.exe.config
+C:\Users\choyo\Desktop\ChatClient_Source3\bin\Debug\ChatClient.exe
+C:\Users\choyo\Desktop\ChatClient_Source3\bin\Debug\ChatClient.pdb
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.CFormMain.resources
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.exe
+C:\Users\choyo\Desktop\ChatClient_Source3\obj\Debug\ChatClient.pdb
